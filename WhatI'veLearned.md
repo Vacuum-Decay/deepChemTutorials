@@ -12,3 +12,7 @@ You can also just copy things to a pandas dataFrame with to_DataFrame()
 
 Using np.random.random_sample or np.random.Generator.random is the more up to date version of using np.random.
 
+MoleculeNet is a collection of molecule related data sets.
+
+List of MoleculeNet Datasets:https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html
+
